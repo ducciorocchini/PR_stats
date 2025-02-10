@@ -5,6 +5,7 @@
 + ggplot2 - to be installed from the CRAN by install.packages("ggplot2")
 + ggridges - to be installed from the CRAN by install.packages("ggridges")
 + viridis - to be installed from the CRAN by install.packages("viridis")
++ RStoolbox - to be installed from the CRAN by install.packages("RStoolbox")
 + devtools - to be installed from the CRAN by install.packages("devtools")
 + imageRy - to be installed from GitHub by:
   + library(devtools)
@@ -30,12 +31,12 @@
 + Multitemporal anaylsis: classification and quantitative change in space and time
 
 ## Day 3: morning
-+ Multitemporal anaylsis: ridgeline plots
-+ 
++ Using ggplot2 to plot images
++ Fuzzy classification
 
 ## Day 3: afternoon
-+  
-+
++ Multitemporal anaylsis: ridgeline plots
++ 
 
 ## Day 4: morning
 + 
@@ -53,6 +54,7 @@
 + LaTeX papers
 + LaTeX presentations
 
-## Final day
-tidyverse
+## Bonus themes:
++ tidyverse
 https://cran.r-project.org/web/packages/tidyterra/vignettes/tidyterra.html
++ Data cubes
