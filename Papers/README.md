@@ -9,3 +9,4 @@
 + Crameri, F., Shephard, G. E., & Heron, P. J. (2020). The misuse of colour in science communication. Nature communications, 11(1), 5444. doi: https://doi.org/10.5281/zenodo.1243862. **cramieri_colour.pdf**
 + Viénot, F., Brettel, H., Ott, L., M'barek, A. B., & Mollon, J. D. (1995). What do colour-blind people see?. Nature, 376(6536), 127-128. **NATURE.pdf**
 +  Rocchini, D., Dadalt, L., Delucchi, L., Neteler, M., Palmer, M.W. (2014) Disentangling the role of remotely sensed spectral heterogeneity as a proxy for North American plant species richness. Community Ecology, 15: 37-43. **Not as a PDF since it is not open access**
++  Müller, K., Schwalb‐Willmann, J., Wegmann, M., & Leutner, B. (2025). RStoolbox: An R package for remote sensing data analysis. Methods in Ecology and Evolution. **Methods Ecol Evol - 2025 - Müller - RStoolbox  An R package for...**
