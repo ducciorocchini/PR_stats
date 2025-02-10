@@ -3,6 +3,7 @@
 # Packages needed
 + terra - to be installed from the CRAN by install.packages("terra")
 + ggplot2 - to be installed from the CRAN by install.packages("ggplot2")
++ ggridges - to be installed from the CRAN by install.packages("ggridges")
 + viridis - to be installed from the CRAN by install.packages("viridis")
 + devtools - to be installed from the CRAN by install.packages("devtools")
 + imageRy - to be installed from GitHub by:
@@ -17,27 +18,36 @@
 + Import and visualize images
 
 ## Day 1: afternoon
++ Importing external data 
 + Spectral indices
-+ Spatial variability
 
 ## Day 2: morning
++ Spatial variability
++ Multivariate analysis: Principal Component Analysis
+
+## Day 2: afternoon
 + Multitemporal anaylsis: qualitative change in space and time
 + Multitemporal anaylsis: classification and quantitative change in space and time
 
-## Day 2: afternoon
-+ Multitemporal anaylsis: ridgline plots
+## Day 3: morning
++ Multitemporal anaylsis: ridgeline plots
 + 
 
-## Day 3: morning
-
 ## Day 3: afternoon
++  
++
 
 ## Day 4: morning
-
++ 
++ Species Ditribution Modelling
+  
 ## Day 4: afternoon
++ Hexagon binning
++ Colorblindenss
 
 ## Day 5: morning
-+ ijoij
++ Using AI and MarkDown to build reports
++ Making your own package in R
   
 ## Day 5: afternoon
 + LaTeX papers
