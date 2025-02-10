@@ -4,7 +4,7 @@
 > R management packages:
 + devtools - to be installed from the CRAN by install.packages("devtools")
  
-> General package for managing raster data:
+> General packages for managing raster data:
 + terra - to be installed from the CRAN by install.packages("terra")
 + ggplot2 - to be installed from the CRAN by install.packages("ggplot2")
 + ggridges - to be installed from the CRAN by install.packages("ggridges")
