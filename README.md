@@ -5,11 +5,25 @@
 + ggplot2 - to be installed from the CRAN by install.packages("ggplot2")
 + ggridges - to be installed from the CRAN by install.packages("ggridges")
 + viridis - to be installed from the CRAN by install.packages("viridis")
++ tidyverse - to be installed from the CRAN by install.packages("tidyverse")
++ tidyterra - to be installed from the CRAN by install.packages("tidyterra")
++ sdm - to be installed from the CRAN by install.packages("sdm")
++ scales - to be installed from the CRAN by install.packages("scalles")
 + RStoolbox - to be installed from the CRAN by install.packages("RStoolbox")
 + devtools - to be installed from the CRAN by install.packages("devtools")
++ colorblindcheck - to be installed from the CRAN by install.packages("colorblindcheck")
++ patchwork - to be installed from the CRAN by install.packages("patchwork")
 + imageRy - to be installed from GitHub by:
   + library(devtools)
   + install_github("ducciorocchini/imageRy")
++ colorblindr - to be installed from GitHub by:
+  + library(devtools)
+  + install_github("clauswilke/colorblindr")
++ cblindplot - - to be installed from GitHub by:
+  + library(devtools)
+  + install_github("ducciorocchini/cblindplot")
+
+
 
 # Program
 
@@ -31,30 +45,27 @@
 + Multitemporal anaylsis: classification and quantitative change in space and time
 
 ## Day 3: morning
++ Multitemporal anaylsis: ridgeline plots
 + Using ggplot2 to plot images
-+ Fuzzy classification
 
 ## Day 3: afternoon
-+ Multitemporal anaylsis: ridgeline plots
-+ 
++ tidyverse to plot images
 
 ## Day 4: morning
-+ 
++ Hexagon binning
 + Species Ditribution Modelling
   
 ## Day 4: afternoon
-+ Hexagon binning
 + Colorblindenss
 
 ## Day 5: morning
 + Using AI and MarkDown to build reports
 + Making your own package in R
-  
-## Day 5: afternoon
 + LaTeX papers
+
+## Day 5: afternoon
 + LaTeX presentations
 
 ## Bonus themes:
 + tidyverse
 https://cran.r-project.org/web/packages/tidyterra/vignettes/tidyterra.html
-+ Data cubes
