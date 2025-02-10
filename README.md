@@ -1,21 +1,29 @@
 # PR Statistics Course: [Remote sensing data analysis and coding in R for ecology](https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/)
 
 # Packages needed
+> R management packages:
++ devtools - to be installed from the CRAN by install.packages("devtools")
+ 
+> General package for managing raster data:
 + terra - to be installed from the CRAN by install.packages("terra")
 + ggplot2 - to be installed from the CRAN by install.packages("ggplot2")
 + ggridges - to be installed from the CRAN by install.packages("ggridges")
 + viridis - to be installed from the CRAN by install.packages("viridis")
 + tidyverse - to be installed from the CRAN by install.packages("tidyverse")
 + tidyterra - to be installed from the CRAN by install.packages("tidyterra")
-+ sdm - to be installed from the CRAN by install.packages("sdm")
 + scales - to be installed from the CRAN by install.packages("scalles")
 + RStoolbox - to be installed from the CRAN by install.packages("RStoolbox")
-+ devtools - to be installed from the CRAN by install.packages("devtools")
-+ colorblindcheck - to be installed from the CRAN by install.packages("colorblindcheck")
 + patchwork - to be installed from the CRAN by install.packages("patchwork")
 + imageRy - to be installed from GitHub by:
   + library(devtools)
   + install_github("ducciorocchini/imageRy")
+
+> Ecological packages:
++ sdm - to be installed from the CRAN by install.packages("sdm")
++ rasterdiv - to be installed from the CRAN by install.packages("rasterdiv")
+
+> Colorblindness packages:
++ colorblindcheck - to be installed from the CRAN by install.packages("colorblindcheck")
 + colorblindr - to be installed from GitHub by:
   + library(devtools)
   + install_github("clauswilke/colorblindr")
