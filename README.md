@@ -1,4 +1,4 @@
-# PR_stats
+# PR Statistics Course: [Remote sensing data analysis and coding in R for ecology](https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/)
 
 # Packages needed
 + terra - to be installed from the CRAN by install.packages("terra")
