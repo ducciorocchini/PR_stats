@@ -60,7 +60,7 @@
 + tidyverse to plot images
 
 ## Day 4: morning
-+ Hexagon binning
++ Hexagon binning (Sentinel dolomites)
 + Species Ditribution Modelling
   
 ## Day 4: afternoon
