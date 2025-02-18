@@ -1,4 +1,5 @@
 # Procedure for classifying remote sensing data
+# x <- subst(sentc, c(1,2), c("forest","other"))
 
 library(terra)
 library(imageRy)
