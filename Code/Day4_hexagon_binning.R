@@ -2,6 +2,8 @@ library(terra)
 library(imageRy)
 library(hexbin)
 
+b8 <- im.import("sentinel.dolomites.b8.tif")
+
 dol <- im.import("sentinel.dol")
 
 dol
