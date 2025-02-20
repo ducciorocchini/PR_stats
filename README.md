@@ -67,9 +67,9 @@
 + Colorblindenss
 
 ## Day 5: morning
++ LaTeX papers
 + Using AI and MarkDown to build reports
 + Making your own package in R
-+ LaTeX papers
 
 ## Day 5: afternoon
 + LaTeX presentations
