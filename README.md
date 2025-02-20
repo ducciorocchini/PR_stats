@@ -73,3 +73,4 @@
 
 ## Day 5: afternoon
 + LaTeX presentations
++ Cartograms
