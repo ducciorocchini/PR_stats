@@ -12,6 +12,11 @@ dol1 = dol[[1]]
 dol2 = dol[[2]]
 plot(dol1, dol2)
 
+# NDVI
+ndvi <- im.import("NDVI_20")
+plot(ndvi[[2]], ndvi[[3]])
+
+
 library(hexbin)
 
 dold = as.data.frame(dol1)
