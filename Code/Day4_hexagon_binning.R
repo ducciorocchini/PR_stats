@@ -19,3 +19,8 @@ dol2d = as.data.frame(dol2)
 
 hbin = hexbin(dold[[1]], dol2d[[1]], xbins = 40)
 plot(hbin)
+
+library(ggplot2)
+ggplot(data.frame(x = rnorm(10000), y = rnorm(10000)), aes(x = x, y = y)) +
+  geom_hex() + coord_fixed() +
+  scale_fill_viridis() + theme_bw()
